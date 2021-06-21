@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.DZ_5_LineRenderer.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Образование\Unity и C\Лабы\DZ_5_LineRenderer\.idea\.idea.DZ_5_LineRenderer\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
