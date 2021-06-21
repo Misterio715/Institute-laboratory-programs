@@ -1,0 +1,16 @@
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\bin\Debug\net5.0\DZ_6_LINQ.exe
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\bin\Debug\net5.0\DZ_6_LINQ.deps.json
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\bin\Debug\net5.0\DZ_6_LINQ.runtimeconfig.json
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\bin\Debug\net5.0\DZ_6_LINQ.runtimeconfig.dev.json
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\bin\Debug\net5.0\DZ_6_LINQ.dll
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\bin\Debug\net5.0\ref\DZ_6_LINQ.dll
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\bin\Debug\net5.0\DZ_6_LINQ.pdb
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\obj\Debug\net5.0\DZ_6_LINQ.csprojAssemblyReference.cache
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\obj\Debug\net5.0\DZ_6_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\obj\Debug\net5.0\DZ_6_LINQ.AssemblyInfoInputs.cache
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\obj\Debug\net5.0\DZ_6_LINQ.AssemblyInfo.cs
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\obj\Debug\net5.0\DZ_6_LINQ.csproj.CoreCompileInputs.cache
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\obj\Debug\net5.0\DZ_6_LINQ.dll
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\obj\Debug\net5.0\ref\DZ_6_LINQ.dll
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\obj\Debug\net5.0\DZ_6_LINQ.pdb
+D:\Образование\Unity и C#\Лабы\DZ_6_LINQ\DZ_6_LINQ\obj\Debug\net5.0\DZ_6_LINQ.genruntimeconfig.cache
