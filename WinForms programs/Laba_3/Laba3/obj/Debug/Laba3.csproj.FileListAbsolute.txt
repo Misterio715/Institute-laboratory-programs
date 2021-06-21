@@ -18,3 +18,13 @@ E:\C#_2\Laba_3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
 E:\C#_2\Laba_3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
 E:\C#_2\Laba_3\Laba3\obj\Debug\Laba3.exe
 E:\C#_2\Laba_3\Laba3\obj\Debug\Laba3.pdb
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\bin\Debug\Laba3.exe.config
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\bin\Debug\Laba3.exe
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\bin\Debug\Laba3.pdb
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\obj\Debug\Laba3.csprojAssemblyReference.cache
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\obj\Debug\Laba3.Form1.resources
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\obj\Debug\Laba3.exe
+D:\Institute-laboratory-programs\WinForms programs\Laba_3\Laba3\obj\Debug\Laba3.pdb

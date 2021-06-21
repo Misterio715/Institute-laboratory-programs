@@ -11,3 +11,10 @@ E:\C#_2\ISRPPS7v2\ISRPPS7v2\obj\Debug\ISRPPS7v2.csprojAssemblyReference.cache
 E:\C#_2\ISRPPS7v2\ISRPPS7v2\obj\Debug\ISRPPS7v2.csproj.CoreCompileInputs.cache
 E:\C#_2\ISRPPS7v2\ISRPPS7v2\obj\Debug\ISRPPS7v2.exe
 E:\C#_2\ISRPPS7v2\ISRPPS7v2\obj\Debug\ISRPPS7v2.pdb
+D:\Institute-laboratory-programs\WinForms programs\Laba_7\ISRPPS7v2\bin\Debug\ISRPPS7v2.exe.config
+D:\Institute-laboratory-programs\WinForms programs\Laba_7\ISRPPS7v2\bin\Debug\ISRPPS7v2.exe
+D:\Institute-laboratory-programs\WinForms programs\Laba_7\ISRPPS7v2\bin\Debug\ISRPPS7v2.pdb
+D:\Institute-laboratory-programs\WinForms programs\Laba_7\ISRPPS7v2\obj\Debug\ISRPPS7v2.csprojAssemblyReference.cache
+D:\Institute-laboratory-programs\WinForms programs\Laba_7\ISRPPS7v2\obj\Debug\ISRPPS7v2.csproj.CoreCompileInputs.cache
+D:\Institute-laboratory-programs\WinForms programs\Laba_7\ISRPPS7v2\obj\Debug\ISRPPS7v2.exe
+D:\Institute-laboratory-programs\WinForms programs\Laba_7\ISRPPS7v2\obj\Debug\ISRPPS7v2.pdb
