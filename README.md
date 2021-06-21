@@ -5,20 +5,20 @@ C# programs from different courses of study in institute
 Программы со второго курса обучения, примеры с использованием технологии WinForms и паттернов проектирования
 
 Некоторые примеры:  
--[Пример](https://github.com/Misterio715/Institute-laboratory-programs/WinForms-programs/Laba_5/) реализации паттерна Abstract Factory  
--[Пример](https://github.com/Misterio715/Institute-laboratory-programs/WinForms-programs/Laba_6/) реализации паттерна MVC  
+-[Пример](WinForms-programs/Laba_5/) реализации паттерна Abstract Factory  
+-[Пример](WinForms-programs/Laba_6/) реализации паттерна MVC  
 
-# [Collections and LINQ examples](https://github.com/Misterio715/Institute-laboratory-programs/Collections-and-LINQ-examples/)
+# [Collections and LINQ examples](Collections-and-LINQ-examples/)
 Программы с третьего курса обучения, примеры на создание собственного варианта очереди и LINQ
 
-# [WPF examples](https://github.com/Misterio715/Institute-laboratory-programs/WPF-examples/)
+# [WPF examples](WPF-examples/)
 2 лабораторные работы из курса по компьютерной графике и простой калькулятор (для целых чисел)
 
-# [Unity course work](https://github.com/Misterio715/Institute-laboratory-programs/Unity-course-work/)
+# [Unity course work](Unity-course-work/)
 Простенькая 3D игра змейка
 
-# [Unity examles](https://github.com/Misterio715/Institute-laboratory-programs/Unity-examles/)
+# [Unity examles](Unity-examles/)
 2D модель, в качестве основы взят один из вариантов задания по теоретической механике
 
-# [Summer practise](https://github.com/Misterio715/Institute-laboratory-programs/Summer-practise/)
+# [Summer practise](Summer-practise/)
 Программы для летней практики по C#, первая - калькулятор акций, вторая - для работы с матрицами и Unit тестами
