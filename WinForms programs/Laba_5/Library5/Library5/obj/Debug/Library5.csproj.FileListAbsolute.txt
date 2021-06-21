@@ -1,0 +1,6 @@
+E:\C#_2\Laba_5\Library5\Library5\bin\Debug\Library5.dll
+E:\C#_2\Laba_5\Library5\Library5\bin\Debug\Library5.pdb
+E:\C#_2\Laba_5\Library5\Library5\obj\Debug\Library5.csprojAssemblyReference.cache
+E:\C#_2\Laba_5\Library5\Library5\obj\Debug\Library5.csproj.CoreCompileInputs.cache
+E:\C#_2\Laba_5\Library5\Library5\obj\Debug\Library5.dll
+E:\C#_2\Laba_5\Library5\Library5\obj\Debug\Library5.pdb

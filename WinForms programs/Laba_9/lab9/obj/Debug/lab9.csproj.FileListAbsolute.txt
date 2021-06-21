@@ -1,0 +1,51 @@
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\bin\Debug\lab9.exe.config
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\bin\Debug\lab9.exe
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\bin\Debug\lab9.pdb
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\obj\Debug\lab9.Form1.resources
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\obj\Debug\lab9.main.resources
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\obj\Debug\lab9.exe
+C:\Users\Кирилл\Desktop\Лабы по исрппс\9\lab9\obj\Debug\lab9.pdb
+F:\9 (от Кири)\lab9\bin\Debug\lab9.exe.config
+F:\9 (от Кири)\lab9\obj\Debug\lab9.exe
+F:\9 (от Кири)\lab9\obj\Debug\lab9.pdb
+F:\9 (от Кири)\lab9\bin\Debug\lab9.exe
+F:\9 (от Кири)\lab9\bin\Debug\lab9.pdb
+F:\9 (от Кири)\lab9\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+F:\9 (от Кири)\lab9\obj\Debug\lab9.Form1.resources
+F:\9 (от Кири)\lab9\obj\Debug\lab9.main.resources
+F:\9 (от Кири)\lab9\obj\Debug\lab9.Properties.Resources.resources
+F:\9 (от Кири)\lab9\obj\Debug\lab9.csproj.GenerateResource.Cache
+E:\9 (от Кири)\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+E:\9 (от Кири)\lab9\obj\Debug\lab9.Form1.resources
+E:\9 (от Кири)\lab9\obj\Debug\lab9.main.resources
+E:\9 (от Кири)\lab9\obj\Debug\lab9.Properties.Resources.resources
+E:\9 (от Кири)\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+E:\9 (от Кири)\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+E:\9 (от Кири)\lab9\obj\Debug\lab9.exe
+E:\9 (от Кири)\lab9\obj\Debug\lab9.pdb
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\bin\Debug\lab9.exe.config
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\bin\Debug\lab9.exe
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\bin\Debug\lab9.pdb
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\obj\Debug\lab9.Form1.resources
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\obj\Debug\lab9.main.resources
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\obj\Debug\lab9.exe
+C:\Users\Кирилл\Desktop\Филе доделать\Laba9\lab9\obj\Debug\lab9.pdb
+E:\C#_2\Laba_9\lab9\bin\Debug\lab9.exe.config
+E:\C#_2\Laba_9\lab9\bin\Debug\lab9.exe
+E:\C#_2\Laba_9\lab9\bin\Debug\lab9.pdb
+E:\C#_2\Laba_9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+E:\C#_2\Laba_9\lab9\obj\Debug\lab9.Form1.resources
+E:\C#_2\Laba_9\lab9\obj\Debug\lab9.main.resources
+E:\C#_2\Laba_9\lab9\obj\Debug\lab9.Properties.Resources.resources
+E:\C#_2\Laba_9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+E:\C#_2\Laba_9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+E:\C#_2\Laba_9\lab9\obj\Debug\lab9.exe
+E:\C#_2\Laba_9\lab9\obj\Debug\lab9.pdb

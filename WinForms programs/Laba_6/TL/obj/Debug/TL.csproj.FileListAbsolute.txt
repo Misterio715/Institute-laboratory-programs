@@ -1,0 +1,104 @@
+C:\Users\HP\Desktop\TL\TL\bin\Debug\TL.exe.config
+C:\Users\HP\Desktop\TL\TL\bin\Debug\TL.exe
+C:\Users\HP\Desktop\TL\TL\bin\Debug\TL.pdb
+C:\Users\HP\Desktop\TL\TL\obj\Debug\TL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\TL\TL\obj\Debug\TL.exe
+C:\Users\HP\Desktop\TL\TL\obj\Debug\TL.pdb
+C:\Users\HP\Desktop\TL\TL\obj\Debug\WindowsApplication1.ControlForm.resources
+C:\Users\HP\Desktop\TL\TL\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\HP\Desktop\TL\TL\obj\Debug\WindowsApplication1.TrafficLightView.resources
+C:\Users\HP\Desktop\TL\TL\obj\Debug\TL.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_9_MVC_несколько видов\TL_MVC\TL\bin\Debug\TL.exe.config
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_9_MVC_несколько видов\TL_MVC\TL\obj\Debug\TL.exe
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_9_MVC_несколько видов\TL_MVC\TL\obj\Debug\TL.pdb
+F:\ИСРППС_Занятие_9_MVC_несколько видов_ком\TL_MVC\TL\bin\Debug\TL.exe.config
+F:\ИСРППС_Занятие_9_MVC_несколько видов_ком\TL_MVC\TL\obj\Debug\TL.exe
+F:\ИСРППС_Занятие_9_MVC_несколько видов_ком\TL_MVC\TL\obj\Debug\TL.pdb
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\bin\Debug\TL.exe.config
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\TL.exe
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\TL.pdb
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\bin\Debug\TL.exe
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\bin\Debug\TL.pdb
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\TL.csprojResolveAssemblyReference.cache
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\WindowsApplication1.ControlForm.resources
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\WindowsApplication1.Form1.resources
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\WindowsApplication1.TrafficLightView.resources
+F:\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\TL.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\bin\Debug\TL.exe.config
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\TL.exe
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\TL.pdb
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\bin\Debug\TL.exe
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\bin\Debug\TL.pdb
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\TL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\WindowsApplication1.ControlForm.resources
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\WindowsApplication1.TrafficLightView.resources
+C:\Users\HP\Desktop\Весна_2017\ИСРППС_Занятие_8_MVC_25.03.17\TL_MVC\TL\obj\Debug\TL.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Весна_2018\ИСРППС_Занятие_9_MVC_31.03.18\TL_MVC\TL\bin\Debug\TL.exe.config
+C:\Users\HP\Desktop\Весна_2018\ИСРППС_Занятие_9_MVC_31.03.18\TL_MVC\TL\obj\Debug\TL.exe
+C:\Users\HP\Desktop\Весна_2018\ИСРППС_Занятие_9_MVC_31.03.18\TL_MVC\TL\obj\Debug\TL.pdb
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятие_8_MVC_17.11.18\TL_MVC\TL\bin\Debug\TL.exe.config
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятие_8_MVC_17.11.18\TL_MVC\TL\obj\Debug\TL.exe
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятие_8_MVC_17.11.18\TL_MVC\TL\obj\Debug\TL.pdb
+C:\Users\HP\Desktop\ОСЕНЬ_2019\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\bin\Debug\TL.exe.config
+C:\Users\HP\Desktop\ОСЕНЬ_2019\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\obj\Debug\TL.exe
+C:\Users\HP\Desktop\ОСЕНЬ_2019\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\obj\Debug\TL.pdb
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\bin\Debug\TL.exe.config
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\obj\Debug\TL.exe
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\obj\Debug\TL.pdb
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\bin\Debug\TL.exe
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\bin\Debug\TL.pdb
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\obj\Debug\TL.csprojResolveAssemblyReference.cache
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.ControlForm.resources
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.Form1.resources
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.TrafficLightView.resources
+F:\ИСРППС_2019\ИСРППС_Занятие_6_MVC_7_9.11.19\TL_MVC\TL\obj\Debug\TL.csproj.GenerateResource.Cache
+E:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\bin\Debug\TL.exe.config
+E:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.exe
+E:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.pdb
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.csprojAssemblyReference.cache
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.ControlForm.resources
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.Form1.resources
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.TrafficLightView.resources
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.Form2.resources
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.csproj.GenerateResource.cache
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.csproj.CoreCompileInputs.cache
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.exe
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.pdb
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\bin\Debug\TL.exe.config
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\bin\Debug\TL.exe
+F:\ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\bin\Debug\TL.pdb
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\bin\Debug\TL.exe.config
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.exe
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.pdb
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\bin\Debug\TL.exe
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\bin\Debug\TL.pdb
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.csprojResolveAssemblyReference.cache
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.ControlForm.resources
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.Form1.resources
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.TrafficLightView.resources
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\WindowsApplication1.Form2.resources
+E:\СВЕТОФОР МОЙ ИСРППС_Занятие_6_MVC(ЛР2)_7_9.11.19\TL_MVC\TL\obj\Debug\TL.csproj.GenerateResource.Cache
+E:\4,6lab mvc\TL_MVC\TL\bin\Debug\TL.exe.config
+E:\4,6lab mvc\TL_MVC\TL\obj\Debug\TL.exe
+E:\4,6lab mvc\TL_MVC\TL\obj\Debug\TL.pdb
+E:\4,6lab mvc\TL_MVC\TL\bin\Debug\TL.exe
+E:\4,6lab mvc\TL_MVC\TL\bin\Debug\TL.pdb
+E:\4,6lab mvc\TL_MVC\TL\obj\Debug\TL.csprojResolveAssemblyReference.cache
+E:\4,6lab mvc\TL_MVC\TL\obj\Debug\WindowsApplication1.ControlForm.resources
+E:\4,6lab mvc\TL_MVC\TL\obj\Debug\WindowsApplication1.Form1.resources
+E:\4,6lab mvc\TL_MVC\TL\obj\Debug\WindowsApplication1.TrafficLightView.resources
+E:\4,6lab mvc\TL_MVC\TL\obj\Debug\WindowsApplication1.Form2.resources
+E:\4,6lab mvc\TL_MVC\TL\obj\Debug\TL.csproj.GenerateResource.Cache
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\bin\Debug\TL.exe.config
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\bin\Debug\TL.exe
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\bin\Debug\TL.pdb
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\obj\Debug\TL.csprojAssemblyReference.cache
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\obj\Debug\WindowsApplication1.ControlForm.resources
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\obj\Debug\WindowsApplication1.Form1.resources
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\obj\Debug\WindowsApplication1.TrafficLightView.resources
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\obj\Debug\WindowsApplication1.Form2.resources
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\obj\Debug\TL.csproj.GenerateResource.cache
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\obj\Debug\TL.csproj.CoreCompileInputs.cache
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\obj\Debug\TL.exe
+D:\ямы\яма_3\Программирование C#\C#_2\Laba_6\TL\obj\Debug\TL.pdb

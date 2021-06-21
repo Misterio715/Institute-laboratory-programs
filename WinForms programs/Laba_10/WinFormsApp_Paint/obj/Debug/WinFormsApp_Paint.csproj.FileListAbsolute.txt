@@ -1,0 +1,86 @@
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.cache
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+C:\Users\Администратор\OneDrive\Projects_C#\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
+E:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+E:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+E:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
+E:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+E:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+E:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojResolveAssemblyReference.cache
+E:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+E:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+E:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.Cache
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojAssemblyReference.cache
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.cache
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.CoreCompileInputs.cache
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+F:\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojAssemblyReference.cache
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.cache
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.CoreCompileInputs.cache
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+C:\Users\Alex1\Desktop\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojAssemblyReference.cache
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.cache
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.CoreCompileInputs.cache
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+C:\Users\Alex1\source\repos\WinFormsApp_Paint\WinFormsApp_Paint\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojAssemblyReference.cache
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.cache
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.CoreCompileInputs.cache
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+D:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
+E:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+E:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+E:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+E:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojAssemblyReference.cache
+E:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+E:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+E:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.cache
+E:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+E:\Лабы по ИСРППС\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
+E:\C#_2\Лаба №10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+E:\C#_2\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+E:\C#_2\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
+E:\C#_2\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojResolveAssemblyReference.cache
+E:\C#_2\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+E:\C#_2\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+E:\C#_2\Лаба №10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.Cache
+E:\C#_2\Лаба №10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+E:\C#_2\Лаба №10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+E:\C#_2\Laba_10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe.config
+E:\C#_2\Laba_10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.exe
+E:\C#_2\Laba_10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.pdb
+E:\C#_2\Laba_10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.exe
+E:\C#_2\Laba_10\WinFormsApp_Paint\bin\Debug\WinFormsApp_Paint.pdb
+E:\C#_2\Laba_10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csprojResolveAssemblyReference.cache
+E:\C#_2\Laba_10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Form1.resources
+E:\C#_2\Laba_10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.Properties.Resources.resources
+E:\C#_2\Laba_10\WinFormsApp_Paint\obj\Debug\WinFormsApp_Paint.csproj.GenerateResource.Cache
