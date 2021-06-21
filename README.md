@@ -1,7 +1,7 @@
 # Institute-laboratory-programs
 C# programs from different courses of study in institute
 
-# [WinForm programs](https://github.com/Misterio715/Institute-laboratory-programs/WinForms programs/)
+# [WinForm programs](https://github.com/Misterio715/Institute-laboratory-programs/WinForms-programs/)
 Программы со второго курса обучения, примеры с использованием технологии WinForms и паттернов проектирования
 
 Некоторые примеры:  
