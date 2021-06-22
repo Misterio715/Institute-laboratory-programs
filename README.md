@@ -22,3 +22,6 @@ C# programs from different courses of study in institute
 
 # [Summer practise](Summer-practise/)
 Программы для летней практики по C#, [первая](Summer-practise/Practice_Task_1) - калькулятор акций, [вторая](Summer-practise/Practice_Task_2) - для работы с матрицами и Unit тестами
+
+# [Numeric methods](Numeric-methods/)  
+Программа с третьего курса по численным методам
